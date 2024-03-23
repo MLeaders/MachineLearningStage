@@ -5,6 +5,9 @@
 #### 선형대수학, 확률론 및 통계학, 미적분학의 기초 이해
 #### Python 프로그래밍 기본 스킬, 특히 NumPy, Pandas 같은 데이터 분석 라이브러리 사용법 숙지
 
+ - [03/23] https://www.notion.so/03-23-1-9a7f22c3715043ff841d6a8597d8f65a
+   
+
 ### 추천 자료:
 #### Khan Academy 또는 Coursera의 수학 관련 코스
 #### "Python for Data Analysis" by Wes McKinney
